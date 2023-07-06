@@ -1,0 +1,19 @@
+{
+  "name": "my-first-npm-module-5326765127365",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdumi/my-first-npm-module.git"
+  },
+  "author": "gitdumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdumi/my-first-npm-module/issues"
+  },
+  "homepage": "https://github.com/gitdumi/my-first-npm-module#readme"
+}
