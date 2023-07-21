@@ -1,5 +1,8 @@
-const generateMessage = () => {
-    return 'Hello World!';
-}
+import { sharedComponent } from "./shared-component";
+import { styles } from "./shared-component.module.css";
 
-module.exports = generateMessage;
+const generateMessage = () => {
+  return "Hello World!";
+};
+
+module.exports = { generateMessage, sharedComponent, styles };
